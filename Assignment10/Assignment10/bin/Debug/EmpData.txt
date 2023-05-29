@@ -1,0 +1,15 @@
+E001,Alvin,Miller,1
+E002,Ted,Johnson,2
+E003,Wally,Walgren,3
+E004,Gretchen,Goucher,4
+N001,Sue,McNeil,1
+N002,Brian,White,2
+N003,Donald,Miller,3
+N004,Peter,Pack,4
+S001,Ronald,Booth,1
+S002,Thomas,Landry,2
+S003,Robert,MacDonald,3
+W001,Clem,Caldor,4
+W002,Ricky,Nelson,1
+W003,Steve,Kurtz,2
+W004,Rubert,Weinstein,3
